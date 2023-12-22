@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    border: 5px solid #fdbe83;
+    border-radius: 30px;
+    width: 600px;
+    height: 100px;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-left: 350px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: #f8b73e;
+    background-color: rgb(247, 222, 176,.6);
+    
+}
+
+body{
+   background-color: #fad898;
+}
+p{
+    text-align: justify; 
+	font-size: 25px; 
+}
+.footer{
+    text-align:center;
+}
